@@ -1,4 +1,4 @@
-# Install frontend-wow
+# Create frontend-wow
 
 ## Requirements
 
