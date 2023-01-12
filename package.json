@@ -15,6 +15,19 @@
     "confusing-browser-globals": "^1.0.10",
     "react": "latest",
     "react-dom": "latest",
+    "react-router-dom": "^6.6.2",
     "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
